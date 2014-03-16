@@ -51,7 +51,7 @@ void setup()
   println("----------");
   
   if (isOK) {
-    println("All OK");
+    println("all good");
   } else {
     println("missing frame found");
   }
